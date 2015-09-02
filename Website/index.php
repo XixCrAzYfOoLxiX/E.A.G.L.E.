@@ -3,13 +3,12 @@
 
 <head>
     <title>Welcome to E.A.G.L.E.</title>
-<<<<<<< HEAD
 
 </head>
 
 <body style="background-color:lightgrey">
-    <h1 style="font-family:Verdana" style="colour:grey">
-        <b>
+    <h1 style="font-family:Verdana">
+        <b style="colour:grey">
             E.A.G.L.E
         </b>
     </h1>
@@ -22,6 +21,3 @@
     </p>
     <hr>
     </body>
-=======
-</head>
->>>>>>> seaney11/master
