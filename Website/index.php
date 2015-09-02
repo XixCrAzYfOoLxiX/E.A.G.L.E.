@@ -3,6 +3,7 @@
 
 <head>
     <title>Welcome to E.A.G.L.E.</title>
+<<<<<<< HEAD
 
 </head>
 
@@ -21,3 +22,6 @@
     </p>
     <hr>
     </body>
+=======
+</head>
+>>>>>>> seaney11/master
