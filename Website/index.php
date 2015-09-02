@@ -17,7 +17,7 @@
      What is E.A.G.L.E?
     </h2>
  <p style="font-family:Verdana" title="What is E.A.G.L.E">
-    E.A.G.L.E is .... blah.....blah blah....<br> I'll do that later.
+    E.A.G.L.E is... blah... blah blah...<br> I'll do this later. Also, I ARE ALL WE
     </p>
     <hr>
     </body>
