@@ -14,7 +14,7 @@
     </h1>
     <hr>
     <h2 style="font-family:Verdana">
-     What is E.A.G.L.E?
+     What is E.A.G.L.E., I hear you ask?
     </h2>
  <p style="font-family:Verdana" title="What is E.A.G.L.E">
     E.A.G.L.E is... blah... blah blah...<br> I'll do this later. Also, I ARE ALL WE
